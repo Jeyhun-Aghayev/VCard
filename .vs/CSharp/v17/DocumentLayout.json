@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\VCardCreation\\CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0758534D-265F-4111-9E9A-22DC3F690C81}|VCardCreation\\VCardCreation.csproj|c:\\users\\asus\\desktop\\vcardcreation\\csharp\\vcardcreation\\models\\requestapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0758534D-265F-4111-9E9A-22DC3F690C81}|VCardCreation\\VCardCreation.csproj|solutionrelative:vcardcreation\\models\\requestapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0758534D-265F-4111-9E9A-22DC3F690C81}|VCardCreation\\VCardCreation.csproj|c:\\users\\asus\\desktop\\vcardcreation\\csharp\\vcardcreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0758534D-265F-4111-9E9A-22DC3F690C81}|VCardCreation\\VCardCreation.csproj|solutionrelative:vcardcreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0758534D-265F-4111-9E9A-22DC3F690C81}|VCardCreation\\VCardCreation.csproj|c:\\users\\asus\\desktop\\vcardcreation\\csharp\\vcardcreation\\models\\vcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0758534D-265F-4111-9E9A-22DC3F690C81}|VCardCreation\\VCardCreation.csproj|solutionrelative:vcardcreation\\models\\vcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0758534D-265F-4111-9E9A-22DC3F690C81}|VCardCreation\\VCardCreation.csproj|c:\\users\\asus\\desktop\\vcardcreation\\csharp\\vcardcreation\\models\\vcardcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0758534D-265F-4111-9E9A-22DC3F690C81}|VCardCreation\\VCardCreation.csproj|solutionrelative:vcardcreation\\models\\vcardcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0758534D-265F-4111-9E9A-22DC3F690C81}|VCardCreation\\VCardCreation.csproj|c:\\users\\asus\\desktop\\vcardcreation\\csharp\\vcardcreation\\models\\exceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0758534D-265F-4111-9E9A-22DC3F690C81}|VCardCreation\\VCardCreation.csproj|solutionrelative:vcardcreation\\models\\exceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0758534D-265F-4111-9E9A-22DC3F690C81}|VCardCreation\\VCardCreation.csproj|c:\\users\\asus\\desktop\\vcardcreation\\csharp\\vcardcreation\\vcardcreation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0758534D-265F-4111-9E9A-22DC3F690C81}|VCardCreation\\VCardCreation.csproj|solutionrelative:vcardcreation\\vcardcreation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VCardCreation.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VCardCreation\\CSharp\\VCardCreation\\Models\\VCardCreation.cs",
+              "RelativeDocumentMoniker": "VCardCreation\\Models\\VCardCreation.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VCardCreation\\CSharp\\VCardCreation\\Models\\VCardCreation.cs",
+              "RelativeToolTip": "VCardCreation\\Models\\VCardCreation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:36:48.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExceptionHandling.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VCardCreation\\CSharp\\VCardCreation\\Models\\ExceptionHandling.cs",
+              "RelativeDocumentMoniker": "VCardCreation\\Models\\ExceptionHandling.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VCardCreation\\CSharp\\VCardCreation\\Models\\ExceptionHandling.cs",
+              "RelativeToolTip": "VCardCreation\\Models\\ExceptionHandling.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:36:46.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VCard.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VCardCreation\\CSharp\\VCardCreation\\Models\\VCard.cs",
+              "RelativeDocumentMoniker": "VCardCreation\\Models\\VCard.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VCardCreation\\CSharp\\VCardCreation\\Models\\VCard.cs",
+              "RelativeToolTip": "VCardCreation\\Models\\VCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:22:11.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequestApi.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VCardCreation\\CSharp\\VCardCreation\\Models\\RequestApi.cs",
+              "RelativeDocumentMoniker": "VCardCreation\\Models\\RequestApi.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VCardCreation\\CSharp\\VCardCreation\\Models\\RequestApi.cs",
+              "RelativeToolTip": "VCardCreation\\Models\\RequestApi.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:22:11.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VCardCreation\\CSharp\\VCardCreation\\Program.cs",
+              "RelativeDocumentMoniker": "VCardCreation\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VCardCreation\\CSharp\\VCardCreation\\Program.cs",
+              "RelativeToolTip": "VCardCreation\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:22:09.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VCardCreation.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VCardCreation\\CSharp\\VCardCreation\\VCardCreation.csproj",
+              "RelativeDocumentMoniker": "VCardCreation\\VCardCreation.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VCardCreation\\CSharp\\VCardCreation\\VCardCreation.csproj",
+              "RelativeToolTip": "VCardCreation\\VCardCreation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T08:22:05.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
